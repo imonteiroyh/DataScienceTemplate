@@ -1,0 +1,7 @@
+{
+    "project_name": "The name of the project.",
+    "project_description": "A short description of the project.",
+    "repository_name": "The name of the repository.",
+    "author": "The name of the author.",
+    "open_source_license": ["Not open source", "MIT", "LGPL3", "GPL3"]
+}
